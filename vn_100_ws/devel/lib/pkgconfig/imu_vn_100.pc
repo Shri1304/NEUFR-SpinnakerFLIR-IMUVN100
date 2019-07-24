@@ -1,0 +1,8 @@
+prefix=/home/auv/vn_100_ws/devel
+
+Name: imu_vn_100
+Description: Description of imu_vn_100
+Version: 0.0.0
+Cflags: -I/home/auv/vn_100_ws/src/imu_vn_100/include -I/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include -I/usr/include
+Libs: -L/home/auv/vn_100_ws/devel/lib -limu_vn_100
+Requires: diagnostic_updater roscpp sensor_msgs

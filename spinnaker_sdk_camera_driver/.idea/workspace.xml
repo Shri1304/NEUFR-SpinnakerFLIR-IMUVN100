@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="spinnaker_sdk_camera_driver" targetName="clean_test_results" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="_spinnaker_sdk_camera_driver_generate_messages_check_deps_SpinnakerImageInfo" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="gtest" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="gmock" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="roscpp_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="tests" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_geneus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="acquisition_nodelet" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_generate_messages" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="nodelet_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="nodelet_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="gtest_main" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="bond_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="run_tests" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_genpy" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="roscpp_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_gencfg" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="acquisition_node" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="capture_nodelet" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="dynamic_reconfigure_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_gennodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="doxygen" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="nodelet_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="bond_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_genlisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="std_msgs_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="bond_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="dynamic_reconfigure_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="bond_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="acquilib" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="bond_generate_messages_eus" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="download_extra_data" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="nodelet_test" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="dynamic_reconfigure_gencfg" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="spinnaker_sdk_camera_driver_gencpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="spinnaker_sdk_camera_driver" targetName="gmock_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4984ac8c-3a55-4fc4-9c00-649002b895ec" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="camera.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/camera.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraBase.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/spinnaker/CameraBase.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="camera.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/camera.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="capture_nodelet.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/capture_nodelet.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#42#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nodelet_test.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nodelet_test.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#37#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subscriber_node.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/subscriber_node.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="capture.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/capture.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15585">
+              <caret line="1039" selection-start-line="1039" selection-end-line="1039" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exposure</find>
+      <find>enablechunk</find>
+      <find>frameID</find>
+      <find>getframeID</find>
+      <find>chunk</find>
+      <find>external</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="spinnaker_camera_settings" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/camera.h" />
+        <option value="$PROJECT_DIR$/src/camera.cpp" />
+        <option value="$PROJECT_DIR$/src/subscriber_node.cpp" />
+        <option value="$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/capture.h" />
+        <option value="$PROJECT_DIR$/src/autoCameraSettings.cpp" />
+        <option value="$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/autoCameraSettings.h" />
+        <option value="$PROJECT_DIR$/src/customCameraSettings.cpp" />
+        <option value="$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/customCameraSettings.h" />
+        <option value="$PROJECT_DIR$/src/acquisition_node.cpp" />
+        <option value="$PROJECT_DIR$/src/capture.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="570" />
+    <option name="y" value="-4" />
+    <option name="width" value="1396" />
+    <option name="height" value="1012" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spinnaker_sdk_camera_driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spinnaker_sdk_camera_driver" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include/spinnaker_sdk_camera_driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.acquisition_node">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="spinnaker_sdk_camera_driver" RUN_TARGET_NAME="acquisition_node" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="_spinnaker_sdk_camera_driver_generate_messages_check_deps_SpinnakerImageInfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="_spinnaker_sdk_camera_driver_generate_messages_check_deps_SpinnakerImageInfo" CONFIG_NAME="Debug" />
+    <configuration name="acquilib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="acquilib" CONFIG_NAME="Debug" />
+    <configuration name="acquisition_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="acquisition_node" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="spinnaker_sdk_camera_driver" RUN_TARGET_NAME="acquisition_node" />
+    <configuration name="acquisition_nodelet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="acquisition_nodelet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="spinnaker_sdk_camera_driver" RUN_TARGET_NAME="acquisition_nodelet" />
+    <configuration name="bond_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="bond_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="bond_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="bond_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="bond_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="bond_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="capture_nodelet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="capture_nodelet" CONFIG_NAME="Debug" />
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug" />
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug" />
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="doxygen" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="dynamic_reconfigure_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="dynamic_reconfigure_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="gmock" CONFIG_NAME="Debug" />
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="gmock_main" CONFIG_NAME="Debug" />
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="gtest" CONFIG_NAME="Debug" />
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="gtest_main" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="nodelet_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="nodelet_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="nodelet_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="nodelet_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="nodelet_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="nodelet_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="spinnaker_sdk_camera_driver" RUN_TARGET_NAME="nodelet_test" />
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="run_tests" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_gencfg" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_gencpp" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_generate_messages" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_geneus" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_genlisp" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_gennodejs" CONFIG_NAME="Debug" />
+    <configuration name="spinnaker_sdk_camera_driver_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="spinnaker_sdk_camera_driver_genpy" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spinnaker_sdk_camera_driver" TARGET_NAME="tests" CONFIG_NAME="Debug" />
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="spinnaker_sdk_camera_driver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="spinnaker_sdk_camera_driver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="spinnaker_sdk_camera_driver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="spinnaker_sdk_camera_driver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="spinnaker_sdk_camera_driver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="spinnaker_sdk_camera_driver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="spinnaker_sdk_camera_driver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application._spinnaker_sdk_camera_driver_generate_messages_check_deps_SpinnakerImageInfo" />
+      <item itemvalue="Application.acquilib" />
+      <item itemvalue="Application.acquisition_node" />
+      <item itemvalue="Application.acquisition_nodelet" />
+      <item itemvalue="Application.bond_generate_messages_cpp" />
+      <item itemvalue="Application.bond_generate_messages_eus" />
+      <item itemvalue="Application.bond_generate_messages_lisp" />
+      <item itemvalue="Application.bond_generate_messages_nodejs" />
+      <item itemvalue="Application.bond_generate_messages_py" />
+      <item itemvalue="Application.capture_nodelet" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.dynamic_reconfigure_gencfg" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_cpp" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_eus" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_lisp" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_nodejs" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_py" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.nodelet_generate_messages_cpp" />
+      <item itemvalue="Application.nodelet_generate_messages_eus" />
+      <item itemvalue="Application.nodelet_generate_messages_lisp" />
+      <item itemvalue="Application.nodelet_generate_messages_nodejs" />
+      <item itemvalue="Application.nodelet_generate_messages_py" />
+      <item itemvalue="Application.nodelet_test" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_gencfg" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_gencpp" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_generate_messages" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_generate_messages_cpp" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_generate_messages_eus" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_generate_messages_lisp" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_generate_messages_nodejs" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_generate_messages_py" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_geneus" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_genlisp" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_gennodejs" />
+      <item itemvalue="Application.spinnaker_sdk_camera_driver_genpy" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4984ac8c-3a55-4fc4-9c00-649002b895ec" name="Default" comment="" />
+      <created>1563389307020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563389307020</updated>
+      <workItem from="1563389308411" duration="2637000" />
+      <workItem from="1563392098551" duration="2222000" />
+      <workItem from="1563827139303" duration="6946000" />
+      <workItem from="1563988071130" duration="9702000" />
+      <workItem from="1564000524536" duration="2973000" />
+      <workItem from="1564004944924" duration="2336000" />
+      <workItem from="1564007323014" duration="36000" />
+    </task>
+    <task id="LOCAL-00001" summary="auto exposure and custom exposure (updated the objects for node)">
+      <created>1564001485153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564001485153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26852000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="2495" height="1444" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496994" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.41666666" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="auto exposure and custom exposure" />
+    <MESSAGE value="auto exposure and custom exposure (updated the objects for node)" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto exposure and custom exposure (updated the objects for node)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/capture_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#42#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodelet_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#37#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/subscriber_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/capture.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/camera.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/acquisition_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/camera.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5430">
+          <caret line="362" lean-forward="true" selection-start-line="362" selection-end-line="362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/ros/node_handle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="25" lean-forward="true" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoCameraSettings.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/autoCameraSettings.h" />
+    <entry file="file://$PROJECT_DIR$/src/nodelet_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#37#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/capture.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/customCameraSettings.h" />
+    <entry file="file://$PROJECT_DIR$/src/customCameraSettings.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/capture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customCameraSettings.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/customCameraSettings.h" />
+    <entry file="file://$PROJECT_DIR$/src/autoCameraSettings.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/autoCameraSettings.h" />
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/camera.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodelet_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/subscriber_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/capture.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/capture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/camera.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.2/CMakeCCompiler.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cameraSettings.h" />
+    <entry file="file://$PROJECT_DIR$/src/subscriber_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/subscriber_nodelet.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/ros/node_handle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="25" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CTestTestfile.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customCameraSettings.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/capture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/customCameraSettings.h" />
+    <entry file="file://$PROJECT_DIR$/src/autoCameraSettings.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/autoCameraSettings.h" />
+    <entry file="file://$PROJECT_DIR$/src/acquisition_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/capture.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15585">
+          <caret line="1039" selection-start-line="1039" selection-end-line="1039" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/spinnaker/SpinGenApi/ICommand.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodelet_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#37#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/subscriber_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/capture_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#42#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/spinnaker/CameraBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/spinnaker_sdk_camera_driver/camera.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/camera.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

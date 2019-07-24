@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="vn_100_ws"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/auv/vn_100_ws/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/auv/vn_100_ws/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/auv/vn_100_ws/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vn_100_ws">
+				<Option output="/home/auv/vn_100_ws/cmake-build-debug/vn_100_ws" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/auv/vn_100_ws/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/auv/vn_100_ws/src/imu_vn_100/include"/>
+					<Add directory="/home/auv/vn_100_ws/src/imu_vn_100/include/imu_vn_100"/>
+					<Add directory="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 vn_100_ws"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vn_100_ws/fast">
+				<Option output="/home/auv/vn_100_ws/cmake-build-debug/vn_100_ws" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/auv/vn_100_ws/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/auv/vn_100_ws/src/imu_vn_100/include"/>
+					<Add directory="/home/auv/vn_100_ws/src/imu_vn_100/include/imu_vn_100"/>
+					<Add directory="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 vn_100_ws/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/auv/vn_100_ws/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/include/imu_vn_100/imu_vn_100.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/src/imu_vn_100.cpp">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/src/imu_vn_100_cont.cpp">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vectornav.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vn100.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vn200.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vn_common.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vn_errorCodes.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vn_kinematics.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vn_linearAlgebra.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vn_math.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vncp_services.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vndevice.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/include/vnint.h">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/src/arch/linux/vncp_services.c">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/src/arch/win32/vncp_services.c">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/src/vn100.c">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/src/vn200.c">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/src/imu_vn_100/vncpplib/src/vndevice.c">
+			<Option target="vn_100_ws"/>
+		</Unit>
+		<Unit filename="/home/auv/vn_100_ws/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

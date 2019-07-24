@@ -1,0 +1,2 @@
+imu_vn_100
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/auv/vn_100_ws/devel -DCMAKE_INSTALL_PREFIX=/home/auv/vn_100_ws/install -G Unix Makefiles
